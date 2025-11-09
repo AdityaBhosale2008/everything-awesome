@@ -192,6 +192,8 @@
 - [🌶️ Flask](https://github.com/mjhea0/awesome-flask#readme)
 - [📊 Dash](https://github.com/ucg8j/awesome-dash#readme)
 - [🔄 Reflex](https://github.com/reflex-dev/awesome-reflex#readme)
+- [🌊 Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit#readme) - Python framework for building data apps
+- [⭐ Best of Streamlit](https://github.com/jrieke/best-of-streamlit#readme) - Curated list of best Streamlit apps and resources
 
 ---
 
