@@ -112,6 +112,7 @@
 - [✨ Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format
 - [🧠 LLM](https://github.com/Hannibal046/Awesome-LLM#readme) - Large Language Models resources
 - [📚 LLM Books](https://github.com/Jason2Brownlee/awesome-llm-books#readme) - Books about Large Language Models
+- [🗂️ LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps#readme) - Curated list of LLM-powered applications and demos
 - [🧩 LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability#readme) - Understanding and interpreting LLMs
 - [🔧 LLM Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training#readme) - Post-training techniques for LLMs
 - [🧠 Context Engineering](https://github.com/Meirtz/Awesome-Context-Engineering#readme) - Context engineering for LLMs
