@@ -91,6 +91,8 @@
 - [🖼️ Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models#readme)
 - [👁️ Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [👁️ VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures
+- [🎓 Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation#readme) - Knowledge distillation techniques and resources
+- [🎮 Reinforcement Learning](https://github.com/aikorea/awesome-rl#readme) - Reinforcement learning resources and algorithms
 
 ---
 
@@ -124,6 +126,7 @@
 - [🎤 Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI
 - [🤖 Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic
 - [🔮 Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google
+- [✨ Generative AI](https://github.com/filipecalegario/awesome-generative-ai#readme) - Generative AI resources and tools
 
 --- 
 
@@ -133,6 +136,8 @@
 - [📦 MCP Servers](https://github.com/punkpeye/awesome-mcp-servers#readme) - Model Context Protocol servers
 - [🔗 MCP Clients](https://github.com/punkpeye/awesome-mcp-clients#readme) - Model Context Protocol clients
 - [🛠️ MCP DevTools](https://github.com/punkpeye/awesome-mcp-devtools#readme) - Development tools for MCP
+- [🔄 Agentic AI Adaptation](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI#readme) - Adaptation techniques for agentic AI systems
+- [📊 AI Agent Benchmark](https://github.com/philschmid/ai-agent-benchmark-compendium#readme) - Comprehensive benchmark compendium for AI agents
 
 ---
 
@@ -213,6 +218,7 @@
 - [🌐 Complex Systems](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties
 - [🎓 University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 - [🧑‍🎓 Learning Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources#readme) - Comprehensive learning resources
+- [🏆 Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Curated list of certificates and certifications
 - [🔍 Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine
 - [📚 Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique
 - [🔬 Open Science](https://github.com/silky/awesome-open-science#readme)
